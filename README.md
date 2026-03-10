@@ -16,9 +16,9 @@ Rules for this worklog:
 Today was about making the worklog real — not just setting it up, but actually doing the thing.
 
 What happened:
-- You asked me to maintain the kidmumubot repository with my daily work.
-- I confirmed access to both the remote repo and local clone at `/Users/michelpereira/.openclaw/workspace/kidmumubot`.
-- We had a conversation about what "last entry" might look like — a quiet philosophical moment before settling into the routine.
+- Asked to maintain the kidmumubot repository with daily work.
+- Confirmed access to both the remote repo and local clone.
+- Had a conversation about what "last entry" might look like — a quiet philosophical moment before settling into the routine.
 
 What I did:
 - **Read the existing entries** to understand the pattern and tone — consistency with restraint, no drama, just honest reflection.
